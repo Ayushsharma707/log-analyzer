@@ -11,8 +11,8 @@ It checks log files and gives you a simple summary like:
 
 ## 🔧 What Kind of Logs It Supports
 
-- **Embedded System Logs** — useful when you're testing hardware or device-based projects  
-- **Selenium Logs** — helpful if you're testing websites using automation tools like Selenium  
+- **Embedded System Logs** - useful when you're testing hardware or device-based projects  
+- **Selenium Logs** - helpful if you're testing websites using automation tools like Selenium  
 
 ---
 
