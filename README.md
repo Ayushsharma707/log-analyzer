@@ -6,7 +6,6 @@ It checks log files and gives you a simple summary like:
 
 - ✅ How many tests passed or failed  
 - ⚠️ If there were any warnings or errors  
-- ℹ️ How many info messages were found  
 
 ---
 
