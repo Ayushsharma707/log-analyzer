@@ -1,6 +1,6 @@
-# 🔍 TestLog Analyzer
+# 🔍 Log Analyzer
 
-**TestLog Analyzer** is a Python-based tool to automatically scan and summarize logs generated during testing of embedded systems or Selenium-based automation tests.
+**Log Analyzer** is a Python-based tool to automatically scan and summarize logs generated during testing of embedded systems or Selenium-based automation tests.
 
 This project helps testers and developers quickly get an overview of:
 - How many logs were generated at each severity level
