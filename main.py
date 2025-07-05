@@ -14,7 +14,6 @@ def main():
         for key, value in summary.items():
             if key != 'TEST_CASES':
                 print(f"  {key}: {value}")
-        print(f"  Test Cases Found: {len(summary['TEST_CASES'])}")
         
 
 if __name__ == '__main__':

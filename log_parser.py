@@ -26,8 +26,5 @@ def parse_log_file(filepath):
             log_data['PASS'] += 1
         if '[FAIL]' in line:
             log_data['FAIL'] += 1
-        match = re.search(r'test_[\w]+', line)
-        if match:
-            log_data['TEST_CASES'].append(match.group())
 
     return log_data
