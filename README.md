@@ -12,7 +12,7 @@ This project helps testers and developers quickly get an overview of:
 ## 📁 Folder Structure
 
 ```
-LogiTest_Analyzer/
+Log_Analyzer/
 ├── main.py              # Main script to run the log analyzer
 ├── selenium_test.py     # Script to generate a Selenium test log
 ├── log_parser.py        # Parses log files and extracts key information
