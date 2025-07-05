@@ -1,0 +1,6 @@
+[2024-06-20 10:14:01] [BOOT] Bootloader initialized successfully.
+[2024-06-20 10:14:02] [INFO] Device temperature: 38.7°C
+[2024-06-20 10:14:05] [WARNING] Voltage spike detected at ADC Channel 3
+[2024-06-20 10:14:07] [ERROR] UART0 timeout during handshake
+[2024-06-20 10:14:10] [INFO] BLE pairing sequence started
+[2024-06-20 10:14:11] [ERROR] BLE pairing failed: ErrorCode=0x34
