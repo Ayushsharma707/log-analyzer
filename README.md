@@ -18,7 +18,7 @@ It checks log files and gives you a simple summary like:
 
 ## 💡 Why Use This Tool?
 
-When you're testing something (a device or a website), it creates a log file that records everything — but reading those logs line by line is slow and tiring.
+When you're testing something (a device or a website), it creates a log file that records everything but reading those logs line by line is slow and tiring.
 
 This tool makes it easier by:
 
@@ -28,14 +28,6 @@ This tool makes it easier by:
 
 It’s a simple but helpful project for **testers**, **QA engineers**, and **developers** working with both **embedded systems** and **web automation**.
 
-
-
-
-
-
-
-
-Ask ChatGPT
 
 
 ---
