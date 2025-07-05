@@ -1,6 +1,6 @@
 # 🔍 Log Analyzer
 
-**Log Analyzer** is a Python tool that helps you quickly understand what’s happening in your test logs — without reading every line manually.
+**Log Analyzer** is a Python tool that helps you quickly understand what’s happening in your test logs,without reading every line manually.
 
 It checks log files and gives you a simple summary like:
 
