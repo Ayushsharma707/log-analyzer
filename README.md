@@ -58,15 +58,7 @@ Analyzing: selenium_log.txt
 
 ---
 
-## 💡 Why This Project?
 
-As part of embedded system testing and automation workflows, analyzing logs manually can be time-consuming and error-prone. This project automates that process and helps engineers quickly assess the quality of test runs, especially during:
-
-- Embedded device boot tests  
-- Web UI testing using Selenium  
-- Error/Warning pattern detection  
-
----
 
 ## 👨‍💻 Built With
 
